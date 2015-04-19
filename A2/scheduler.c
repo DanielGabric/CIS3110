@@ -7,13 +7,13 @@ Assignment #2
 
 int main(int argc,char * argv[])
 {
-	boolean isFCFS = true;
-	boolean isRR = false;
-	boolean isD = false;
-	boolean isV = false;
-	int quantum = -1;
-	int size=0;
-	int i,j,k;
+    boolean isFCFS = true;
+    boolean isRR = false;
+    boolean isD = false;
+    boolean isV = false;
+    int quantum = -1;
+    int size=0;
+    int i,j,k;
     int junk;
     int process_number;
     int process_switch;
